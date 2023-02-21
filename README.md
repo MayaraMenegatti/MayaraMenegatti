@@ -2,7 +2,7 @@
  
 <h1>Hi, I'm Mayara Menegatti! 👋</h1>
 
-Software Enginner at Itaú Unibanco
+<i>Software Enginner at Itaú Unibanco</i>
 <!--
 **MayaraMenegatti/MayaraMenegatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
