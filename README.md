@@ -1,6 +1,6 @@
 
  
-<h1>### Hi, I'm Mayara Menegatti! 👋</h1>
+<h1>Hi, I'm Mayara Menegatti! 👋</h1>
 
 Software Enginner at Itaú Unibanco
 <!--
