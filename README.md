@@ -24,7 +24,7 @@ const Mayara = {
         devOps: ["AWS", "Docker🐳"],
         databases: ["MySql", "DynamoDB"],
     },
-    currentFocus: "Deeper studies on kotlin and Go",
+    currentFocus: "Deeper studies on Kotlin and Go",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
