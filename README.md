@@ -13,20 +13,19 @@
 const Mayara = {
     pronouns: "She" | "Her",
     code: ["Javascript", "Python", "Java", "Kotlin", "Go"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["area transition", "web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node"],
         },
         mobileApp: {
             native: ["Android Development"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["MySql"],
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
+    currentFocus: "Deeper studies on kotlin and Go",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
