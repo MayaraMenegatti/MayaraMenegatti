@@ -12,7 +12,7 @@
 ```javascript
 const Mayara = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "Python", "Java", "PHP"],
+    code: ["Javascript", "Python", "Java", "Kotlin", "Go"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
