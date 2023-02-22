@@ -22,7 +22,7 @@ const Mayara = {
             native: ["Android Development"]
         },
         devOps: ["AWS", "Docker🐳"],
-        databases: ["MySql"],
+        databases: ["MySql", "DynamoDB"],
     },
     currentFocus: "Deeper studies on kotlin and Go",
     funFact: "There are two ways to write error-free programs; only the third one works"
