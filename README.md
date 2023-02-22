@@ -5,6 +5,7 @@
 <i>Software Enginner at <a href="http://www.itau.com.br">Itaú Unibanco</a></i>
 
 [![Linkedin: mayaramenegatti](https://img.shields.io/badge/-mayaramenegatti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayaramenegatti/)](https://www.linkedin.com/in/mayaramenegatti/)
+[![GitHub Mayara Menegatti](https://img.shields.io/github/followers/mayaramenegatti?label=follow&style=social)](https://github.com/MayaraMenegatti)
 
 
 <!--
